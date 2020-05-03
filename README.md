@@ -1,3 +1,5 @@
+## Daniel Torres González - 1020492000
+## Daniel Santa Rendón - 1040050021
 # Laboratorio de sincronización #
 
 Este laboratorio esta compuesto de dos partes a realizar.
