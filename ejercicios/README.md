@@ -1,3 +1,5 @@
+## Daniel Torres González - 1020492000
+## Daniel Santa Rendón - 1040050021
 # Manejo de estructuras que usan locks #
 
 ## Fuentes de consulta ##
